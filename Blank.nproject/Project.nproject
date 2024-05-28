@@ -1,0 +1,18 @@
+{
+    "name": "Blank",
+    "guid": "05f0a801-5819-48c5-8de8-d0a840808f97",
+	"database_guid": "9e7f872c-6faa-4a57-b2fd-a08d65d78a4a",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "EAF8C037-4ADF-4A97-99FD-915341D1854C",
+        "B7921721-4029-47CE-873C-5D356D604AA9",
+        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "default_scene": "da864d81-696b-490d-beb6-ed56269d25d6",
+    "tags": [ "98d1d91a-2ef9-44ed-9203-c05be539663c" ],
+    "source": "Project.nproject"
+}
