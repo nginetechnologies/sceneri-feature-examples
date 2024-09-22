@@ -1,5 +1,5 @@
 {
-    "name": "rigidbody test",
+    "name": "Physics Body",
     "guid": "52a02eb4-bade-3c7e-46d4-ece2d37fd946",
     "database_guid": "89177dba-fc67-17ab-29d7-c5368f83b40b",
     "version": "1.0.0",

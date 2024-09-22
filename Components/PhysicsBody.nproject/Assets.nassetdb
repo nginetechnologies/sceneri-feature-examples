@@ -2,7 +2,7 @@
     "52a02eb4-bade-3c7e-46d4-ece2d37fd946": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "name": "rigidbody test",
+        "name": "Physics Body",
         "thumbnail": "bfc729b7-a733-ee0f-0278-b0130a160778",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d"
