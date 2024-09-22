@@ -1,1 +1,20 @@
-{"name":"rigidbody test","guid":"52a02eb4-bade-3c7e-46d4-ece2d37fd946","database_guid":"89177dba-fc67-17ab-29d7-c5368f83b40b","version":"1.0.0","engine":"3ff049e0-0880-4898-879d-1ccf5583c9c6","plugins":["eaf8c037-4adf-4a97-99fd-915341d1854c","b7921721-4029-47ce-873c-5d356d604aa9","0f7c1053-884c-4795-a082-2aecf6ba8032"],"asset_directory":"Assets","binary_directory":"bin","library_directory":"lib","thumbnail_guid":"bfc729b7-a733-ee0f-0278-b0130a160778","default_scene":"ebf619f5-f1fd-c75c-5873-6cea5fa2cdf7","tags":["f5777f96-a43c-4ebd-872a-1eeda5719aaf"]}
+{
+    "name": "rigidbody test",
+    "guid": "52a02eb4-bade-3c7e-46d4-ece2d37fd946",
+    "database_guid": "89177dba-fc67-17ab-29d7-c5368f83b40b",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "eaf8c037-4adf-4a97-99fd-915341d1854c",
+        "b7921721-4029-47ce-873c-5d356d604aa9",
+        "0f7c1053-884c-4795-a082-2aecf6ba8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid": "bfc729b7-a733-ee0f-0278-b0130a160778",
+    "default_scene": "ebf619f5-f1fd-c75c-5873-6cea5fa2cdf7",
+    "tags": [
+        "95b8e280-5b62-4235-a18a-805d24f34e8d"
+    ]
+}
