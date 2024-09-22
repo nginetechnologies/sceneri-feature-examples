@@ -3,7 +3,7 @@ name: Publish (Development)
 on:
   push:
     branches:
-    - main
+    - live
 
 jobs:
   publish_to_backend:
