@@ -12,10 +12,6 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
-    "bfc729b7-a733-ee0f-0278-b0130a160778": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Scenes/Thumbnails/8385ccd0-ad86-57a3-c6d0-9f439e862e8c.tex.nasset"
-    },
     "ebf619f5-f1fd-c75c-5873-6cea5fa2cdf7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
