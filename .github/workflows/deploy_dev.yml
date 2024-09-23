@@ -47,3 +47,4 @@ jobs:
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem-dev:latest +register_backend_assets /repo/Components/Primitives/ArcPrimitive.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem-dev:latest +register_backend_assets /repo/Components/Primitives/ConePrimitive.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem-dev:latest +register_backend_assets /repo/Components/Primitives/ArrowPrimitive.nproject/Assets.nassetdb
+        docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem-dev:latest +register_backend_assets /repo/Components/Primitives/SpherePrimitive.nproject/Assets.nassetdb
