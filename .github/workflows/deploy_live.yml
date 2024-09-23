@@ -45,3 +45,4 @@ jobs:
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/TorusPrimitive.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/CylinderPrimitive.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/ArcPrimitive.nproject/Assets.nassetdb
+        docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/ConePrimitive.nproject/Assets.nassetdb
