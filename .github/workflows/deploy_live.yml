@@ -42,3 +42,4 @@ jobs:
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Physics/CylinderCollider.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/BoxPrimitive.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/PyramidPrimitive.nproject/Assets.nassetdb
+        docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Primitives/TorusPrimitive.nproject/Assets.nassetdb
