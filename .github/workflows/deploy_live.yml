@@ -35,3 +35,4 @@ jobs:
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Physics/ZeroGravity.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Physics/SphericalGravity.nproject/Assets.nassetdb
         docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Physics/SplineGravity.nproject/Assets.nassetdb
+        docker run -v ${{ github.workspace }}:/repo ghcr.io/nginetechnologies/projectsystem:latest +register_backend_assets /repo/Components/Physics/BoxCollider.nproject/Assets.nassetdb
