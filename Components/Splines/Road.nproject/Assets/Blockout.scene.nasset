@@ -1,0 +1,1105 @@
+{
+    "guid": "2bb1ac39-3e96-8ea3-1725-ad115b0297a2",
+    "type_version": 1,
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "instanceGuid": "2e7a024e-3f89-9fc3-831f-49eb0a25a861",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-6.805458068847656,-5.977238655090332,4.742933750152588],\"rotation\":[-30.904064178466798,-4.49587277129293e-11,-1.6592350006103516]}"
+    },
+    "children": [
+        {
+            "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
+            "instanceGuid": "ee2e2ece-79ac-de57-04c4-0390f07b5c1d",
+            "data_components": [
+                {
+                    "typeGuid": "de693274-60b1-4973-a474-9bfd21432dd4"
+                },
+                {
+                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
+                },
+                {
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                },
+                {
+                    "typeGuid": "2ccaab2c-f671-481e-b0e3-a95106c62da6"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                },
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
+                },
+                {
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ee2e2ece-79ac-de57-04c4-0390f07b5c1d"
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "46c860be-7128-a90b-b3a2-3a5c9d8e3733",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -8.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube Purple.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "46c860be-7128-a90b-b3a2-3a5c9d8e3733"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5536a166-a831-6cee-f5a9-9699a5dcc824"
+            }
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "2662ae70-aad5-3143-deea-6fdbd8b2020e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -8.0312,
+                    -0.1562,
+                    1.625
+                ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "4c3001ee-8a3b-4fc0-bc83-d36b2f58f305"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                }
+            ]
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "7958da50-4d21-cf9a-a0b7-74b271d06df4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#fdfdfd00",
+                "cascades": 4,
+                "intensity": 10.0,
+                "cascade_distances": [
+                    6.0,
+                    12.0,
+                    32.0,
+                    60.0
+                ],
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+            "instanceGuid": "fefdc40a-4a94-7012-c29c-074cf7ce4557",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0137,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    -89.999,
+                    0.0,
+                    0.0
+                ]
+            },
+            "37000929-8ed6-4f15-a9ec-4f7d15302f02": {
+                "acceleration": 9.81
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
+                }
+            ]
+        },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "0da02766-38a2-bd9b-92df-b8998aa1ce8a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.1403,
+                    55.686,
+                    11.3044
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+                "prefiltered": "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "d376bf2d-7e24-0fa6-0fa4-a10d3de87552",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -3.0848
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "c4336256-b031-4fed-9323-210ac72ca4a5"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                }
+            ]
+        },
+        {
+            "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+            "instanceGuid": "3eef48d0-2ca3-33a0-ded9-e38e8090ba49",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.7368,
+                    -0.578,
+                    0.0
+                ]
+            },
+            "304ec37e-bce4-48b6-9c2e-6108738270ff": {
+                "spline": {
+                    "points": [
+                        {
+                            "position": [],
+                            "backward": [
+                                0.0876,
+                                -0.1782,
+                                0.0
+                            ],
+                            "forward": [
+                                -0.145,
+                                0.2952,
+                                0.0
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -0.171,
+                                0.9716,
+                                0.0199
+                            ],
+                            "backward": [
+                                -0.2048,
+                                0.6444,
+                                0.0165
+                            ],
+                            "forward": [
+                                -0.1361,
+                                1.3104,
+                                0.0235
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                0.1982,
+                                1.9242,
+                                0.0199
+                            ],
+                            "backward": [
+                                -0.0006,
+                                1.6478,
+                                0.0199
+                            ],
+                            "forward": [
+                                0.3811,
+                                2.1783,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                0.9342,
+                                2.5077,
+                                0.0199
+                            ],
+                            "backward": [
+                                0.673,
+                                2.3351,
+                                0.0199
+                            ],
+                            "forward": [
+                                1.2515,
+                                2.7175,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                1.9282,
+                                3.0679,
+                                0.0199
+                            ],
+                            "backward": [
+                                1.5828,
+                                2.9086,
+                                0.0199
+                            ],
+                            "forward": [
+                                2.2447,
+                                3.2139,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                2.9128,
+                                3.4202,
+                                0.0199
+                            ],
+                            "backward": [
+                                2.5717,
+                                3.3483,
+                                0.0199
+                            ],
+                            "forward": [
+                                3.2381,
+                                3.4888,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                3.9082,
+                                3.4852,
+                                0.0199
+                            ],
+                            "backward": [
+                                3.5892,
+                                3.5791,
+                                0.0199
+                            ],
+                            "forward": [
+                                4.228,
+                                3.3912,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                4.7123,
+                                2.8909,
+                                0.0199
+                            ],
+                            "backward": [
+                                4.4778,
+                                3.1277,
+                                0.0199
+                            ],
+                            "forward": [
+                                4.9771,
+                                2.6234,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                5.3905,
+                                1.9879,
+                                0.0199
+                            ],
+                            "backward": [
+                                5.2028,
+                                2.3142,
+                                0.0199
+                            ],
+                            "forward": [
+                                5.5606,
+                                1.6924,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                5.7767,
+                                1.0407,
+                                0.0199
+                            ],
+                            "backward": [
+                                5.7202,
+                                1.377,
+                                0.0199
+                            ],
+                            "forward": [
+                                5.8343,
+                                0.6979,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                5.7246,
+                                -0.0008,
+                                0.0199
+                            ],
+                            "backward": [
+                                5.8494,
+                                0.3236,
+                                0.0199
+                            ],
+                            "forward": [
+                                5.6027,
+                                -0.3181,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                5.0745,
+                                -0.7864,
+                                0.0199
+                            ],
+                            "backward": [
+                                5.325,
+                                -0.5567,
+                                0.0199
+                            ],
+                            "forward": [
+                                4.8311,
+                                -1.0096,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                4.2571,
+                                -1.3464,
+                                0.0199
+                            ],
+                            "backward": [
+                                4.551,
+                                -1.1957,
+                                0.0199
+                            ],
+                            "forward": [
+                                3.938,
+                                -1.5099,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                3.2494,
+                                -1.7221,
+                                0.0199
+                            ],
+                            "backward": [
+                                3.6066,
+                                -1.6925,
+                                0.0199
+                            ],
+                            "forward": [
+                                2.9153,
+                                -1.7498,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                2.266,
+                                -1.5113,
+                                0.0199
+                            ],
+                            "backward": [
+                                2.5791,
+                                -1.6312,
+                                0.0199
+                            ],
+                            "forward": [
+                                1.9365,
+                                -1.3851,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                1.3434,
+                                -0.9921,
+                                0.0199
+                            ],
+                            "backward": [
+                                1.6395,
+                                -1.1841,
+                                0.0199
+                            ],
+                            "forward": [
+                                1.0429,
+                                -0.7971,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                0.4798,
+                                -0.3526,
+                                0.0199
+                            ],
+                            "backward": [
+                                0.7679,
+                                -0.5654,
+                                0.0242
+                            ],
+                            "forward": [
+                                0.32,
+                                -0.2347,
+                                0.0176
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        }
+                    ],
+                    "is_closed": true
+                },
+                "bounds": {
+                    "minimum": [
+                        -0.001
+                    ],
+                    "maximum": [
+                        0.001
+                    ]
+                }
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "b2949dcf-7d3e-4ac7-962a-29685a44d92c",
+                    "instanceGuid": "727395a9-b94b-21d9-8fab-e95768a9e797",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "c8a7da1f-a8e4-c6b2-8dd3-c1e68378a45b",
+                        "material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
+                    },
+                    "b2949dcf-7d3e-4ac7-962a-29685a44d92c": {
+                        "Width": 1.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Road"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
+            "instanceGuid": "01567fe7-9032-bb7b-3953-0b62d64b7541",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.1373,
+                    7.6583,
+                    0.0
+                ]
+            },
+            "304ec37e-bce4-48b6-9c2e-6108738270ff": {
+                "spline": {
+                    "points": [
+                        {
+                            "position": [],
+                            "backward": [],
+                            "forward": [
+                                -0.316,
+                                -0.0402,
+                                0.0082
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -0.9323,
+                                -0.2103,
+                                0.0199
+                            ],
+                            "backward": [
+                                -0.6408,
+                                -0.0816,
+                                0.0168
+                            ],
+                            "forward": [
+                                -1.2599,
+                                -0.355,
+                                0.0235
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -1.8261,
+                                -0.8065,
+                                0.0199
+                            ],
+                            "backward": [
+                                -1.6191,
+                                -0.5142,
+                                0.0199
+                            ],
+                            "forward": [
+                                -2.0234,
+                                -1.0852,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -2.0606,
+                                -1.8039,
+                                0.0199
+                            ],
+                            "backward": [
+                                -2.1226,
+                                -1.468,
+                                0.0199
+                            ],
+                            "forward": [
+                                -1.9983,
+                                -2.1412,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -1.4844,
+                                -2.6567,
+                                0.0199
+                            ],
+                            "backward": [
+                                -1.777,
+                                -2.4775,
+                                0.0199
+                            ],
+                            "forward": [
+                                -1.1831,
+                                -2.8411,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -0.4343,
+                                -2.7995,
+                                0.0199
+                            ],
+                            "backward": [
+                                -0.784,
+                                -2.8492,
+                                0.0199
+                            ],
+                            "forward": [
+                                -0.0708,
+                                -2.7479,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                0.5773,
+                                -2.364,
+                                0.0199
+                            ],
+                            "backward": [
+                                0.2384,
+                                -2.5053,
+                                0.0199
+                            ],
+                            "forward": [
+                                0.9329,
+                                -2.2157,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                1.649,
+                                -1.9307,
+                                0.0199
+                            ],
+                            "backward": [
+                                1.2764,
+                                -1.8323,
+                                0.0199
+                            ],
+                            "forward": [
+                                1.941,
+                                -2.0079,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                2.037,
+                                -2.7497,
+                                0.0199
+                            ],
+                            "backward": [
+                                1.9981,
+                                -2.4501,
+                                0.0199
+                            ],
+                            "forward": [
+                                2.08,
+                                -3.0811,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                1.8838,
+                                -3.7406,
+                                0.0199
+                            ],
+                            "backward": [
+                                1.9932,
+                                -3.4248,
+                                0.0199
+                            ],
+                            "forward": [
+                                1.7727,
+                                -4.0613,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                1.3861,
+                                -4.6288,
+                                0.0199
+                            ],
+                            "backward": [
+                                1.5798,
+                                -4.3501,
+                                0.0199
+                            ],
+                            "forward": [
+                                1.1703,
+                                -4.9394,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                0.6604,
+                                -5.5012,
+                                0.0199
+                            ],
+                            "backward": [
+                                0.9399,
+                                -5.2463,
+                                0.0199
+                            ],
+                            "forward": [
+                                0.4045,
+                                -5.7345,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -0.2033,
+                                -6.0783,
+                                0.0199
+                            ],
+                            "backward": [
+                                0.1185,
+                                -5.9508,
+                                0.0199
+                            ],
+                            "forward": [
+                                -0.56,
+                                -6.2195,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -1.3343,
+                                -6.2911,
+                                0.0199
+                            ],
+                            "backward": [
+                                -0.9509,
+                                -6.2783,
+                                0.0199
+                            ],
+                            "forward": [
+                                -1.4642,
+                                -6.2954,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        },
+                        {
+                            "position": [
+                                -1.6884,
+                                -6.128,
+                                0.0199
+                            ],
+                            "backward": [
+                                -1.5843,
+                                -6.2058,
+                                0.0199
+                            ],
+                            "forward": [
+                                -1.6884,
+                                -6.128,
+                                0.0199
+                            ],
+                            "up": [
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "is_bezier": true
+                        }
+                    ],
+                    "is_closed": false
+                },
+                "bounds": {
+                    "minimum": [
+                        -0.001
+                    ],
+                    "maximum": [
+                        0.001
+                    ]
+                }
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "b2949dcf-7d3e-4ac7-962a-29685a44d92c",
+                    "instanceGuid": "accea283-3a59-24aa-e850-b43ae647a66d",
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "2f99d647-9a81-8673-69b4-eb731db47cf9",
+                        "material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
+                    },
+                    "b2949dcf-7d3e-4ac7-962a-29685a44d92c": {
+                        "Width": 1.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Road"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2bb1ac39-3e96-8ea3-1725-ad115b0297a2"
+    }
+}
