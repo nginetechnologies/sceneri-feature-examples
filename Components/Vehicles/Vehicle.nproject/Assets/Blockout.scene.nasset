@@ -1,0 +1,961 @@
+{
+    "guid": "06f2b2e7-3e63-30dc-e2e2-cb72ce070688",
+    "type_version": 1,
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "instanceGuid": "2e7a024e-3f89-9fc3-831f-49eb0a25a861",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[2.331618309020996,-2.4132091999053957,1.893367886543274],\"rotation\":[-32.011043548583987,-4.803355864169134e-7,44.18431091308594]}"
+    },
+    "children": [
+        {
+            "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
+            "instanceGuid": "ee2e2ece-79ac-de57-04c4-0390f07b5c1d",
+            "data_components": [
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "2ccaab2c-f671-481e-b0e3-a95106c62da6"
+                },
+                {
+                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
+                },
+                {
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                },
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                },
+                {
+                    "typeGuid": "de693274-60b1-4973-a474-9bfd21432dd4"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ee2e2ece-79ac-de57-04c4-0390f07b5c1d"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5859,
+                    0.9921,
+                    -2.75
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube Grey.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "2662ae70-aad5-3143-deea-6fdbd8b2020e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5859,
+                    -6.2811,
+                    -0.2421
+                ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "4c3001ee-8a3b-4fc0-bc83-d36b2f58f305"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                }
+            ]
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "7958da50-4d21-cf9a-a0b7-74b271d06df4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#fdfdfd00",
+                "cascades": 4,
+                "intensity": 10.0,
+                "cascade_distances": [
+                    6.0,
+                    12.0,
+                    32.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+            "instanceGuid": "fefdc40a-4a94-7012-c29c-074cf7ce4557",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0137,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    -89.999,
+                    0.0,
+                    0.0
+                ]
+            },
+            "37000929-8ed6-4f15-a9ec-4f7d15302f02": {
+                "acceleration": 9.81
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
+                }
+            ]
+        },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "0da02766-38a2-bd9b-92df-b8998aa1ce8a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.1403,
+                    55.686,
+                    11.3044
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+                "prefiltered": "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "d376bf2d-7e24-0fa6-0fa4-a10d3de87552",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -3.0848
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "c4336256-b031-4fed-9323-210ac72ca4a5"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                }
+            ]
+        },
+        {
+            "typeGuid": "2fe2589c-79f4-4456-84e2-7b57af139e49",
+            "instanceGuid": "c03e7e44-1526-2d6d-a51c-fb8664d94da3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Vehicle"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c03e7e44-1526-2d6d-a51c-fb8664d94da3"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 2,
+                    "layer": 1,
+                    "body_flags": 2,
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                    "instanceGuid": "28e91c12-263c-4db7-b587-6e8d9a811da5",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            1.0
+                        ]
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+                        "comOffset": []
+                    },
+                    "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                        "half_extent": [
+                            0.5,
+                            0.5,
+                            0.1
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "28e91c12-263c-4db7-b587-6e8d9a811da5"
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
+                    "instanceGuid": "5dd3d0f5-8a20-cce9-14d5-a55015e9cfe7",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            1.0,
+                            0.0
+                        ]
+                    },
+                    "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
+                        "powerRatio": 0.3,
+                        "powerSplit": 0.5,
+                        "differentialRatio": 3.42,
+                        "antiRollBarStiffness": 500.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Forward Axle"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "5dd3d0f5-8a20-cce9-14d5-a55015e9cfe7"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "141c97fe-c62a-21d3-d11a-0a76c03e4fc0",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -0.5,
+                                    0.0,
+                                    -0.3
+                                ]
+                            },
+                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                "maxSteeringAngle": 0.2994,
+                                "radius": 0.2,
+                                "width": 0.4,
+                                "minSuspensionLength": 0.1,
+                                "maxSuspensionLength": 0.3,
+                                "suspensionStiffness": 1.5,
+                                "suspensionDamping": 0.5,
+                                "maxHandbrakeTorque": 4000.0,
+                                "forwardGrip": 1.0,
+                                "sidewaysGrip": 1.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Forward Left Wheel"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "141c97fe-c62a-21d3-d11a-0a76c03e4fc0"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "968abbdf-84eb-40c3-bff7-79635e33fdc3",
+                                    "instanceGuid": "b4c194c8-8307-b5f4-e6e1-f31fbfab33d9",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            0.0,
+                                            89.9802,
+                                            -0.0
+                                        ]
+                                    },
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "18761a84-2f6e-e94f-013c-4f29700f017a",
+                                        "material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
+                                    },
+                                    "968abbdf-84eb-40c3-bff7-79635e33fdc3": {
+                                        "Radius": 0.2,
+                                        "Height": 0.4,
+                                        "SideCount": 8,
+                                        "SegmentCount": 2
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh"
+                                        },
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "b4c194c8-8307-b5f4-e6e1-f31fbfab33d9"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "7880eedd-b099-cb83-62fb-650ef204e76b",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.5,
+                                    0.0,
+                                    -0.3
+                                ]
+                            },
+                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                "maxSteeringAngle": 0.2994,
+                                "radius": 0.2,
+                                "width": 0.4,
+                                "minSuspensionLength": 0.1,
+                                "maxSuspensionLength": 0.3,
+                                "suspensionStiffness": 1.5,
+                                "suspensionDamping": 0.5,
+                                "maxHandbrakeTorque": 4000.0,
+                                "forwardGrip": 1.0,
+                                "sidewaysGrip": 1.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Forward Right Wheel"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "7880eedd-b099-cb83-62fb-650ef204e76b"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "968abbdf-84eb-40c3-bff7-79635e33fdc3",
+                                    "instanceGuid": "d6c61d7a-9542-fb79-e8eb-e3ab03f22058",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            0.0,
+                                            89.9802,
+                                            -0.0
+                                        ]
+                                    },
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "95ca4787-62c7-e807-fa85-6fba7f0b34c8",
+                                        "material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
+                                    },
+                                    "968abbdf-84eb-40c3-bff7-79635e33fdc3": {
+                                        "Radius": 0.2,
+                                        "Height": 0.4,
+                                        "SideCount": 8,
+                                        "SegmentCount": 2
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh"
+                                        },
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "d6c61d7a-9542-fb79-e8eb-e3ab03f22058"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
+                    "instanceGuid": "3ecf476b-8a41-178e-08e4-fdef7b82f6fa",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -1.0,
+                            0.0
+                        ]
+                    },
+                    "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
+                        "powerRatio": 0.3,
+                        "powerSplit": 0.5,
+                        "differentialRatio": 3.42,
+                        "antiRollBarStiffness": 500.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Back Axle"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "3ecf476b-8a41-178e-08e4-fdef7b82f6fa"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "cd5e633b-24bb-06a9-d155-f42e6bc3ecf2",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    -0.5,
+                                    0.0,
+                                    -0.3
+                                ]
+                            },
+                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                "maxSteeringAngle": 0.2994,
+                                "radius": 0.2,
+                                "width": 0.4,
+                                "minSuspensionLength": 0.1,
+                                "maxSuspensionLength": 0.3,
+                                "suspensionStiffness": 1.5,
+                                "suspensionDamping": 0.5,
+                                "maxHandbrakeTorque": 4000.0,
+                                "forwardGrip": 1.0,
+                                "sidewaysGrip": 1.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Back Left Wheel"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "cd5e633b-24bb-06a9-d155-f42e6bc3ecf2"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "968abbdf-84eb-40c3-bff7-79635e33fdc3",
+                                    "instanceGuid": "89d71c31-6a31-06c0-2975-24e58156a6f8",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            0.0,
+                                            89.9802,
+                                            -0.0
+                                        ]
+                                    },
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "fe1cf2ff-2287-c475-52f9-a2ef5b451bf2",
+                                        "material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
+                                    },
+                                    "968abbdf-84eb-40c3-bff7-79635e33fdc3": {
+                                        "Radius": 0.2,
+                                        "Height": 0.4,
+                                        "SideCount": 8,
+                                        "SegmentCount": 2
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh"
+                                        },
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "89d71c31-6a31-06c0-2975-24e58156a6f8"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "92a737fc-0d2b-20b7-ba02-9158c54e907a",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.5,
+                                    0.0,
+                                    -0.3
+                                ]
+                            },
+                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                "maxSteeringAngle": 0.2994,
+                                "radius": 0.2,
+                                "width": 0.4,
+                                "minSuspensionLength": 0.1,
+                                "maxSuspensionLength": 0.3,
+                                "suspensionStiffness": 1.5,
+                                "suspensionDamping": 0.5,
+                                "maxHandbrakeTorque": 4000.0,
+                                "forwardGrip": 1.0,
+                                "sidewaysGrip": 1.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Forward Right Wheel"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "92a737fc-0d2b-20b7-ba02-9158c54e907a"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "968abbdf-84eb-40c3-bff7-79635e33fdc3",
+                                    "instanceGuid": "26f04026-9543-2fea-5de2-675ca8a32b55",
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            0.0,
+                                            89.9802,
+                                            -0.0
+                                        ]
+                                    },
+                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                        "stages": [
+                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                            "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                                        ]
+                                    },
+                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                        "mesh": "7186a987-b117-5377-aa07-ea26f0dc1441",
+                                        "material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
+                                    },
+                                    "968abbdf-84eb-40c3-bff7-79635e33fdc3": {
+                                        "Radius": 0.2,
+                                        "Height": 0.4,
+                                        "SideCount": 8,
+                                        "SegmentCount": 2
+                                    },
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Mesh"
+                                        },
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "26f04026-9543-2fea-5de2-675ca8a32b55"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                    "instanceGuid": "8bd796ce-d779-f484-f5ad-e55b6010bf27",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            0.3671
+                        ]
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "dc7e2094-148c-438d-9b97-b6586e6e5f87",
+                        "comOffset": []
+                    },
+                    "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                        "half_extent": [
+                            0.5
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Box Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "0c8fbd90-0850-47b1-9136-ce6325123807",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "390b0d71-7df9-2e47-3f84-3ee6264fc043"
+                                }
+                            ],
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "d5246193-102f-419b-9be2-fbe48ee5a0fc"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "403e13df-01ab-16df-0273-33f617af140e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.5859,
+                    0.9921,
+                    -2.75
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 7"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fafe6117-57b0-e7ea-15fa-18821b2e9094",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.5859,
+                    -1.0043,
+                    -2.8669
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 8"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "caa0cd0a-20c5-bf18-5994-168fda0505c4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5859,
+                    -1.0043,
+                    -2.8669
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 9"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0274ab9d-1e6a-2801-b336-d553ed67661a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.5859,
+                    -3.0009,
+                    -2.9839
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 10"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17d4ecca-7b37-4a2a-4b5e-fc354e1c08df",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5859,
+                    -3.0009,
+                    -2.9839
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 11"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a39fc0ef-b2c7-2952-8130-46e0ba85c0e3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.5859,
+                    -4.9975,
+                    -3.1008
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 12"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c776843-6aaf-eaec-e64b-a7d2a1125781",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5859,
+                    -4.9975,
+                    -3.1008
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 13"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "77555228-4a19-aef2-de1f-c148d07997e2",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.5859,
+                    -6.9941,
+                    -3.2178
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 14"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "57546075-a473-af89-0c21-49eb6000eed5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5859,
+                    -6.9941,
+                    -3.2178
+                ],
+                "rotation": [
+                    3.3525,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cube 2x2 15"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78b76a38-724d-f8c2-3e60-fd2bc8fdc3a6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed1db795-583c-a5a3-b484-9c0f952df033"
+            }
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "06f2b2e7-3e63-30dc-e2e2-cb72ce070688"
+    }
+}
