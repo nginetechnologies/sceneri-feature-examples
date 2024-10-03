@@ -1,1 +1,21 @@
-{"name":"Hinge Gravity","guid":"d67861d7-0918-db75-03c0-7cb80581e2d9","database_guid":"2ba2c300-10bb-61f2-ce9a-040fc7e869c5","version":"1.0.0","engine":"3ff049e0-0880-4898-879d-1ccf5583c9c6","plugins":["eaf8c037-4adf-4a97-99fd-915341d1854c","b7921721-4029-47ce-873c-5d356d604aa9","0f7c1053-884c-4795-a082-2aecf6ba8032"],"asset_directory":"Assets","binary_directory":"bin","library_directory":"lib","thumbnail_guid":"2217f531-0d84-99ef-a353-413083b3ba48","default_scene":"462a1da2-1929-ab35-e1f9-9cab6cd6eae2","tags":["95b8e280-5b62-4235-a18a-805d24f34e8d","4668c615-723e-4227-93b0-fb5bc37c5bae"]}
+{
+    "name": "Hinge Gravity",
+    "guid": "d67861d7-0918-db75-03c0-7cb80581e2d9",
+    "database_guid": "2ba2c300-10bb-61f2-ce9a-040fc7e869c5",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "eaf8c037-4adf-4a97-99fd-915341d1854c",
+        "b7921721-4029-47ce-873c-5d356d604aa9",
+        "0f7c1053-884c-4795-a082-2aecf6ba8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid": "247b8ec8-7dfa-49f3-9472-9bb7f56a47d7",
+    "default_scene": "462a1da2-1929-ab35-e1f9-9cab6cd6eae2",
+    "tags": [
+        "95b8e280-5b62-4235-a18a-805d24f34e8d",
+        "4668c615-723e-4227-93b0-fb5bc37c5bae"
+    ]
+}

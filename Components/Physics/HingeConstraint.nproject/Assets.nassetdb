@@ -1,4 +1,8 @@
 {
+    "247b8ec8-7dfa-49f3-9472-9bb7f56a47d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Hinge_Thumb.tex.nasset"
+    },
     "2ba2c300-10bb-61f2-ce9a-040fc7e869c5": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
@@ -16,7 +20,7 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Hinge Gravity",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "247b8ec8-7dfa-49f3-9472-9bb7f56a47d7",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "4668c615-723e-4227-93b0-fb5bc37c5bae"
