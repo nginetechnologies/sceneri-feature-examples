@@ -1,0 +1,28 @@
+{
+    "05ba79db-896f-a347-5913-8a073db1e64c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "607419a1-4456-a70d-de3b-aa1759f17f82": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Draw_Splines_Thumb.tex.nasset"
+    },
+    "72674044-078c-4a46-a77a-4291ce829db5": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Draw Splines",
+        "thumbnail": "607419a1-4456-a70d-de3b-aa1759f17f82",
+        "tags": [
+            "95b8e280-5b62-4235-a18a-805d24f34e8d"
+        ]
+    },
+    "73014508-9ae8-450e-8924-931c2747b375": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Draw Splines.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-8.774032592773438,-9.816534042358399,10.687429428100586],\"rotation\":[-40.649417877197269,-0.0,-43.57454299926758]}"
+        }
+    },
+    "guid": "05ba79db-896f-a347-5913-8a073db1e64c"
+}

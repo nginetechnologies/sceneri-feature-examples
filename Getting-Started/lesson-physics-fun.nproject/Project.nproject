@@ -1,0 +1,20 @@
+{
+    "name": "Physics Fun",
+    "guid": "5f54a045-c00a-4f35-aa52-a60355bdb824",
+	"database_guid": "a7c12e00-746d-4fd9-bee4-d57bdab52aaf",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "EAF8C037-4ADF-4A97-99FD-915341D1854C",
+        "B7921721-4029-47CE-873C-5D356D604AA9",
+        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid":"94b13660-a5a6-695d-b050-5c680a4eb75d",
+    "default_scene": "6d30717b-3054-4f47-acf2-f29135b6eabc",
+        "tags": [
+        "95b8e280-5b62-4235-a18a-805d24f34e8d"
+    ]
+}

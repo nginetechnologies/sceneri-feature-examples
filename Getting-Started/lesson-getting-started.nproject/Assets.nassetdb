@@ -1,0 +1,30 @@
+{
+    "6aa9bca1-ad4e-4c6b-8053-b43086f3fc4b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Getting Started.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-1.431240439414978,-2.608318567276001,5.21870756149292],\"rotation\":[-31.9781551361084,0.0000012255020465090639,63.90916061401367]}"
+        }
+    },
+    "8ae3b180-5e31-d98b-fcb8-205169ed12c9": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "9fe7d9f5-af84-4a98-8b3f-bafde10457b9": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Getting Started",
+        "thumbnail": "b06cba8f-5cb8-4dff-6a63-ede95386ee37",
+        "tags": [
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "5273634d-33b1-4b74-8a71-6f60edb04c7e"
+        ]
+    },
+    "b06cba8f-5cb8-4dff-6a63-ede95386ee37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Get_Started_Thumb.tex.nasset"
+    },
+    "guid": "8ae3b180-5e31-d98b-fcb8-205169ed12c9"
+}

@@ -1,0 +1,28 @@
+{
+    "1ceeed97-0e62-457a-83d2-d27f7a142ed5": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Material Basics",
+        "thumbnail": "60793038-8aaa-8b6d-8b69-56be221d8fc3",
+        "tags": [
+            "95b8e280-5b62-4235-a18a-805d24f34e8d"
+        ]
+    },
+    "4696bb65-51f0-428c-93b4-854fe4b49045": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Material Basics.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-8.774032592773438,-9.816534042358399,10.687429428100586],\"rotation\":[-40.649417877197269,-0.0,-43.57454299926758]}"
+        }
+    },
+    "60793038-8aaa-8b6d-8b69-56be221d8fc3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Material_Basics_Thumb.tex.nasset"
+    },
+    "75918565-d3aa-4509-9438-18b302b8f648": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "75918565-d3aa-4509-9438-18b302b8f648"
+}

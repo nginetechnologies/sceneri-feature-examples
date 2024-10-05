@@ -1,7 +1,7 @@
 {
-    "name": "Hinge Constraint",
-    "guid": "d67861d7-0918-db75-03c0-7cb80581e2d9",
-    "database_guid": "2ba2c300-10bb-61f2-ce9a-040fc7e869c5",
+    "name": "Getting Started",
+    "guid": "9fe7d9f5-af84-4a98-8b3f-bafde10457b9",
+    "database_guid": "8ae3b180-5e31-d98b-fcb8-205169ed12c9",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,10 +12,10 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "247b8ec8-7dfa-49f3-9472-9bb7f56a47d7",
-    "default_scene": "462a1da2-1929-ab35-e1f9-9cab6cd6eae2",
+    "thumbnail_guid": "b06cba8f-5cb8-4dff-6a63-ede95386ee37",
+    "default_scene": "6aa9bca1-ad4e-4c6b-8053-b43086f3fc4b",
     "tags": [
         "95b8e280-5b62-4235-a18a-805d24f34e8d",
-        "4668c615-723e-4227-93b0-fb5bc37c5bae"
+        "5273634d-33b1-4b74-8a71-6f60edb04c7e"
     ]
 }

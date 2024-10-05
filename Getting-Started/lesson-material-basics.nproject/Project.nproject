@@ -1,0 +1,20 @@
+{
+    "name": "Material Basics",
+    "guid": "1ceeed97-0e62-457a-83d2-d27f7a142ed5",
+	"database_guid": "75918565-d3aa-4509-9438-18b302b8f648",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "EAF8C037-4ADF-4A97-99FD-915341D1854C",
+        "B7921721-4029-47CE-873C-5D356D604AA9",
+        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid":"60793038-8aaa-8b6d-8b69-56be221d8fc3",
+    "default_scene": "4696bb65-51f0-428c-93b4-854fe4b49045",
+        "tags": [
+        "95b8e280-5b62-4235-a18a-805d24f34e8d"
+    ]
+}

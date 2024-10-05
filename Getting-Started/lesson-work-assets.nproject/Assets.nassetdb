@@ -1,0 +1,21 @@
+{
+    "46e23248-545e-536c-7de1-d4ebe16feb7f": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "5c7d7873-8925-4197-a9bf-bb2fc4117133": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Using Assets",
+        "thumbnail": "c006de91-5336-6cdc-5925-f84653be9510",
+        "tags": [
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "5273634d-33b1-4b74-8a71-6f60edb04c7e"
+        ]
+    },
+    "c006de91-5336-6cdc-5925-f84653be9510": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Draw_Splines_Thumb.tex.nasset"
+    },
+    "guid": "46e23248-545e-536c-7de1-d4ebe16feb7f"
+}

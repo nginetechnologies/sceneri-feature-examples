@@ -1,8 +1,12 @@
 {
+    "15edf85a-1b85-4286-c13f-c3ad470efbcf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Enviro_Light_Thumb.tex.nasset"
+    },
     "4db4e92a-8f68-9a54-b06b-24df721d015f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Environment Light.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.099379062652588,-3.95216965675354,5.479507923126221],\"rotation\":[-35.288719177246097,-0.0000010359703992435244,34.744232177734378]}"
@@ -12,7 +16,7 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Environment Light",
-        "thumbnail": "d6dda533-e249-95dd-8c93-cdff722881f2",
+        "thumbnail": "15edf85a-1b85-4286-c13f-c3ad470efbcf",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "b600bd66-c92b-45d4-9361-3541b3133da6"

@@ -3,11 +3,15 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
+    "55b66b72-10fc-aa2c-b776-cbbafdc38d16": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Point_Light_Thumb.tex.nasset"
+    },
     "74a33e84-bab7-b6a5-0635-9a610d79ec10": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Point Light",
-        "thumbnail": "d6dda533-e249-95dd-8c93-cdff722881f2",
+        "thumbnail": "55b66b72-10fc-aa2c-b776-cbbafdc38d16",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "b600bd66-c92b-45d4-9361-3541b3133da6"
@@ -16,7 +20,7 @@
     "e2425843-d429-1ed1-b503-567fea40799a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Point Light.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-4.333698272705078,-3.9023756980895998,4.958160400390625],\"rotation\":[-29.67085838317871,-2.2853175352111067e-8,30.387039184570314]}"

@@ -1,8 +1,12 @@
 {
+    "0e9b8987-7dcb-c14e-f6f9-7ea5bc3ae3fe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Directional_Light_Thumb.tex.nasset"
+    },
     "500552a0-2591-af62-88b2-23620526737a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Directional Light.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.099379062652588,-3.95216965675354,5.479507923126221],\"rotation\":[-34.603614807128909,-1.7103292293541018e-7,35.798370361328128]}"
@@ -16,7 +20,7 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Directional Light",
-        "thumbnail": "bfc729b7-a733-ee0f-0278-b0130a160778",
+        "thumbnail": "0e9b8987-7dcb-c14e-f6f9-7ea5bc3ae3fe",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "b600bd66-c92b-45d4-9361-3541b3133da6"
