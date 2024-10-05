@@ -2,7 +2,7 @@
     "2bb1ac39-3e96-8ea3-1725-ad115b0297a2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Road.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-6.805458068847656,-5.977238655090332,4.742933750152588],\"rotation\":[-30.904064178466798,-4.49587277129293e-11,-1.6592350006103516]}"
@@ -16,11 +16,15 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Road",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "d4016126-5068-b68e-3942-5f00d17bd4bb",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "4668c615-723e-4227-93b0-fb5bc37c5bae"
         ]
+    },
+    "d4016126-5068-b68e-3942-5f00d17bd4bb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Road_Thumb.tex.nasset"
     },
     "guid": "55dd7ca0-be0b-72c3-1519-d09a80328fc1",
     "imported_assets": [

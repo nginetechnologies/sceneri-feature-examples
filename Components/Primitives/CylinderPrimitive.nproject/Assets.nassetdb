@@ -2,7 +2,7 @@
     "76efe0d9-c633-5585-5185-9c3c2db48abe": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Cylinder Primitive.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.099379062652588,-3.95216965675354,5.479507923126221],\"rotation\":[-33.91851043701172,-9.80684262685827e-7,36.0794792175293]}"
@@ -12,14 +12,19 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Cylinder Primitive",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "d1da4e60-1796-162a-0e40-5c83e61c4b95",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","c90672c1-d945-4d95-ba48-c1b6781ad0cf"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "c90672c1-d945-4d95-ba48-c1b6781ad0cf"
         ]
     },
     "c3d20436-85d2-8338-61d3-959ee7df2e9a": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
+    },
+    "d1da4e60-1796-162a-0e40-5c83e61c4b95": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Cylinder_Primitive_Thumb.tex.nasset"
     },
     "guid": "c3d20436-85d2-8338-61d3-959ee7df2e9a",
     "imported_assets": [

@@ -2,17 +2,21 @@
     "105a6174-01e2-bcb5-e228-3f96e315215b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Rope.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[1.0051970481872559,-4.377094745635986,7.62276554107666],\"rotation\":[-39.53636169433594,2.1004254335821316e-7,31.933137893676759]}"
         }
     },
+    "c168ce89-d07b-15f6-36e4-b2a514e2c6d8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Rope_Thumb.tex.nasset"
+    },
     "c729705f-82c6-95a4-30db-457b471ce743": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Rope",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "c168ce89-d07b-15f6-36e4-b2a514e2c6d8",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "4668c615-723e-4227-93b0-fb5bc37c5bae"

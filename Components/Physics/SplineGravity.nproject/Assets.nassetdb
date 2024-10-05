@@ -3,9 +3,11 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Spline Gravity",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "bb4ebb0c-051a-eae3-e2ab-9a7b8883ab2d",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","4668c615-723e-4227-93b0-fb5bc37c5bae","a458cc58-26f3-40e4-912b-6c0d0d0d7850"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "4668c615-723e-4227-93b0-fb5bc37c5bae",
+            "a458cc58-26f3-40e4-912b-6c0d0d0d7850"
         ]
     },
     "85a3423d-3fa7-e00c-f5cf-2f42b92f2fbe": {
@@ -15,11 +17,15 @@
     "8ddd63f8-2b4a-2666-1571-23ada2b1b82a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Spline Gravity.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-7.47504186630249,-10.421357154846192,9.99535083770752],\"rotation\":[-31.04107093811035,1.4868085429498024e-7,-10.514081954956055]}"
         }
+    },
+    "bb4ebb0c-051a-eae3-e2ab-9a7b8883ab2d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Spline_Gravity_Thumb.tex.nasset"
     },
     "guid": "85a3423d-3fa7-e00c-f5cf-2f42b92f2fbe",
     "imported_assets": [

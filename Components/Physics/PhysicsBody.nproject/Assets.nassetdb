@@ -3,19 +3,24 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Physics Body",
-        "thumbnail": "bfc729b7-a733-ee0f-0278-b0130a160778",
+        "thumbnail": "e6aae1d2-ffad-71ba-0ed5-f99d368945b6",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","4668c615-723e-4227-93b0-fb5bc37c5bae"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "4668c615-723e-4227-93b0-fb5bc37c5bae"
         ]
     },
     "89177dba-fc67-17ab-29d7-c5368f83b40b": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
+    "e6aae1d2-ffad-71ba-0ed5-f99d368945b6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Physics_Body_Thumb.tex.nasset"
+    },
     "ebf619f5-f1fd-c75c-5873-6cea5fa2cdf7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Physics Body.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-2.788783550262451,-1.4613471031188965,4.246056079864502],\"rotation\":[-35.83671951293945,9.59348867013432e-8,55.475826263427737]}"

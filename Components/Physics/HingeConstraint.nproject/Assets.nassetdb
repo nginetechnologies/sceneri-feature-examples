@@ -10,7 +10,7 @@
     "462a1da2-1929-ab35-e1f9-9cab6cd6eae2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Hinge Constraint.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-2.9228339195251467,-3.875925064086914,6.345564842224121],\"rotation\":[-39.39934158325195,9.034713599476163e-8,34.21035385131836]}"

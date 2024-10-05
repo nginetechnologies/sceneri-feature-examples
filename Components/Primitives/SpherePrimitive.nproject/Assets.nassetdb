@@ -1,8 +1,12 @@
 {
+    "4ae2722f-a517-e1a3-02fd-7d257970d8e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Sphere_Primitive_Thumb.tex.nasset"
+    },
     "6b8cb2e8-59ef-cba8-45fc-485bf1afc648": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Sphere Primitive.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.917548179626465,-2.7439656257629396,2.7291512489318849],\"rotation\":[-22.408754348754884,1.1755115991718412e-7,35.16590118408203]}"
@@ -16,9 +20,10 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Sphere Primitive",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "4ae2722f-a517-e1a3-02fd-7d257970d8e9",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","c90672c1-d945-4d95-ba48-c1b6781ad0cf"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "c90672c1-d945-4d95-ba48-c1b6781ad0cf"
         ]
     },
     "guid": "88280fbc-0cbc-a034-1d85-b742edfb5516",

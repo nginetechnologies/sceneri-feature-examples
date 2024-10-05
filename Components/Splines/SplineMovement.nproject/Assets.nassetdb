@@ -2,11 +2,15 @@
     "1ae770d5-f28a-3e31-1bd4-96fcd5e81a7c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Spline Movement.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.665797710418701,-3.1717443466186525,4.281321048736572],\"rotation\":[-25.76017951965332,2.1045805098651728e-8,33.057552337646487]}"
         }
+    },
+    "1bf87ec8-e33c-6f83-4f06-76e56e182b65": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Spline_Movement_Thumb.tex.nasset"
     },
     "73b40610-80bb-ad1e-bca5-c67c2cd7d4e2": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
@@ -16,7 +20,7 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Spline Movement",
-        "thumbnail": "ce0f164f-554b-1964-9042-5946678d3050",
+        "thumbnail": "1bf87ec8-e33c-6f83-4f06-76e56e182b65",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "a458cc58-26f3-40e4-912b-6c0d0d0d7850"

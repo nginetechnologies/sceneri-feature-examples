@@ -2,7 +2,7 @@
     "0e561815-3747-4262-14ba-67cd1e98088a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Plane Collider.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-2.8262991905212404,-0.7073389887809753,2.9361345767974855],\"rotation\":[-14.73554515838623,-2.6302606670469688e-7,60.18450164794922]}"
@@ -12,13 +12,18 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
+    "a9b7b436-0485-6742-9823-4405c4c08ebb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Plane_Collider_Thumb.tex.nasset"
+    },
     "e7355422-4fde-6d68-0a1f-3a859f0cea66": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Plane Collider",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "a9b7b436-0485-6742-9823-4405c4c08ebb",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","4668c615-723e-4227-93b0-fb5bc37c5bae"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "4668c615-723e-4227-93b0-fb5bc37c5bae"
         ]
     },
     "guid": "6e2a073f-dff2-fad3-5d86-aae5ac013375",

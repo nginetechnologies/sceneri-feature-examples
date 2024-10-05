@@ -1,4 +1,8 @@
 {
+    "149cbf0c-b275-8c9d-35fa-092bafdb72d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Pyramid_Primitive_Thumb.tex.nasset"
+    },
     "3cbfee56-1598-2f55-1780-ce978380fd66": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
@@ -7,15 +11,16 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Pyramid Primitive",
-        "thumbnail": "de63a1be-5549-0a0d-2511-27617e573fd5",
+        "thumbnail": "149cbf0c-b275-8c9d-35fa-092bafdb72d7",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","c90672c1-d945-4d95-ba48-c1b6781ad0cf"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "c90672c1-d945-4d95-ba48-c1b6781ad0cf"
         ]
     },
     "9c1c43ab-b813-c251-b203-c9491828ec10": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Pyramid Primitive.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.6353676319122316,-2.7224268913269045,4.508282661437988],\"rotation\":[-36.932952880859378,-4.496622239003045e-7,38.750038146972659]}"

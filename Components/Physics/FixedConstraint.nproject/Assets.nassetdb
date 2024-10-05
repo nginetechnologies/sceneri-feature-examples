@@ -6,19 +6,24 @@
     "8ef4a57d-35bf-57e7-533d-9af9e1af4804": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Fixed Constraint.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-4.47238302230835,-1.9094961881637574,4.470885753631592],\"rotation\":[-33.781471252441409,5.910397362640651e-7,32.91704559326172]}"
         }
     },
+    "9d6dab38-a44a-fbbe-7da3-12c6c830c64b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Fixed_Constraint_Thumb.tex.nasset"
+    },
     "adb008e1-1180-f828-b6aa-4799fdfa4ffa": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Fixed Constraint",
-        "thumbnail": "3d492ecf-8f4b-6ec4-73d2-474230d40b65",
+        "thumbnail": "9d6dab38-a44a-fbbe-7da3-12c6c830c64b",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","4668c615-723e-4227-93b0-fb5bc37c5bae"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "4668c615-723e-4227-93b0-fb5bc37c5bae"
         ]
     },
     "guid": "296699e0-cdfd-f5f5-fd1f-03ab8e1c597d",

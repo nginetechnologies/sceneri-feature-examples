@@ -3,11 +3,15 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Teleport Sensor",
-        "thumbnail": "82b4f41e-6c46-1184-ed89-df187091829c",
+        "thumbnail": "5c25452c-1e4b-106b-08dd-78380862b765",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "5273634d-33b1-4b74-8a71-6f60edb04c7e"
         ]
+    },
+    "5c25452c-1e4b-106b-08dd-78380862b765": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Teleport_Sensor_Thumb.tex.nasset"
     },
     "94456fec-7092-42c6-fcab-d769218367c7": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
@@ -16,7 +20,7 @@
     "b36b11f1-4474-e262-2639-64b3fb10330d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Teleport Sensor.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[2.309361696243286,10.341815948486329,6.463969707489014],\"rotation\":[-24.931081771850587,-0.00000131973513362027,121.25505828857422]}"

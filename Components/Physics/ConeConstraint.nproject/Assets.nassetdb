@@ -3,7 +3,7 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Cone Constraint",
-        "thumbnail": "3f135486-538b-cd1f-bfb2-94eab111bf9f",
+        "thumbnail": "eb32c0a8-287e-60f0-f3d5-39414cc4b9a4",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
             "4668c615-723e-4227-93b0-fb5bc37c5bae"
@@ -12,7 +12,7 @@
     "26d61e21-353a-4b42-c2b1-64fe9afe86a5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Cone Constraint.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-5.935259819030762,-1.2985774278640748,3.4844741821289064],\"rotation\":[-28.848773956298829,-2.766290663203108e-7,18.0183048248291]}"
@@ -21,6 +21,10 @@
     "3f790a3a-de55-20c1-c346-16256e18e587": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
+    },
+    "eb32c0a8-287e-60f0-f3d5-39414cc4b9a4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Cone_Constraint_Thumb.tex.nasset"
     },
     "guid": "3f790a3a-de55-20c1-c346-16256e18e587",
     "imported_assets": [

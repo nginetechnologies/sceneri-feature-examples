@@ -3,9 +3,10 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Point Constraint",
-        "thumbnail": "3d492ecf-8f4b-6ec4-73d2-474230d40b65",
+        "thumbnail": "68ee71bc-89d2-e2b7-6594-9e4903f9cb4d",
         "tags": [
-            "95b8e280-5b62-4235-a18a-805d24f34e8d","4668c615-723e-4227-93b0-fb5bc37c5bae"
+            "95b8e280-5b62-4235-a18a-805d24f34e8d",
+            "4668c615-723e-4227-93b0-fb5bc37c5bae"
         ]
     },
     "5a822c0d-21cd-1b7d-bb35-17e3c5bef84b": {
@@ -15,11 +16,15 @@
     "6390c994-ce79-d88d-985b-dcb42f357b4f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blockout.scene.nasset",
+        "path": "Assets/Point Constraint.scene.nasset",
         "metadata": {
             "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-5.935259819030762,-1.2985774278640748,3.4844741821289064],\"rotation\":[-28.848770141601564,-1.5838357114716929e-7,17.87775421142578]}"
         }
+    },
+    "68ee71bc-89d2-e2b7-6594-9e4903f9cb4d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Point_Constraint_Thumb.tex.nasset"
     },
     "guid": "5a822c0d-21cd-1b7d-bb35-17e3c5bef84b",
     "imported_assets": [
