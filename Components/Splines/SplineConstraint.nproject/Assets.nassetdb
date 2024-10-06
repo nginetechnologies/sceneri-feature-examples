@@ -1,33 +1,32 @@
 {
-    "0665c6b2-218a-da4e-6a4d-b3a895d67344": {
+    "04058f5b-cfcc-003a-971c-b389cd618b4b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Spline_Constraint_Thumb.tex.nasset"
+    },
+    "64591768-d8e0-1fd2-277f-3554073b62e1": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "name": "Spline Gravity",
-        "thumbnail": "bb4ebb0c-051a-eae3-e2ab-9a7b8883ab2d",
+        "name": "Spline Constraint",
+        "thumbnail": "04058f5b-cfcc-003a-971c-b389cd618b4b",
         "tags": [
             "95b8e280-5b62-4235-a18a-805d24f34e8d",
-            "4668c615-723e-4227-93b0-fb5bc37c5bae",
             "a458cc58-26f3-40e4-912b-6c0d0d0d7850"
         ]
     },
-    "85a3423d-3fa7-e00c-f5cf-2f42b92f2fbe": {
+    "9339e6f9-e447-3863-a6ae-735a878da61b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Spline Constraint.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-6.326596736907959,-6.105187892913818,6.138785362243652],\"rotation\":[-30.872785568237306,-1.288923812126086e-7,8.179588317871094]}"
+        }
+    },
+    "a60ea940-1f91-2129-7cbd-2e9d5a4baf8c": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
-    "8ddd63f8-2b4a-2666-1571-23ada2b1b82a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Spline Gravity.scene.nasset",
-        "metadata": {
-            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
-            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-7.47504186630249,-10.421357154846192,9.99535083770752],\"rotation\":[-31.04107093811035,1.4868085429498024e-7,-10.514081954956055]}"
-        }
-    },
-    "bb4ebb0c-051a-eae3-e2ab-9a7b8883ab2d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Spline_Gravity_Thumb.tex.nasset"
-    },
-    "guid": "85a3423d-3fa7-e00c-f5cf-2f42b92f2fbe",
+    "guid": "a60ea940-1f91-2129-7cbd-2e9d5a4baf8c",
     "imported_assets": [
         "0017f9f1-149c-8d8e-ae62-47ea8edee5ec",
         "00a4a42e-996b-0e5f-c849-61961a8df1dc",
