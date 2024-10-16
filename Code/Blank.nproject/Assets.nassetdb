@@ -1,0 +1,24 @@
+{
+    "dd937a44-0aa9-4a1c-8ca0-2b9d284f6845": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Blank",
+        "thumbnail": "e0b0b7a2-9fb4-4f85-8ca7-6a0f812e4283",
+        "tags": [
+            "98d1d91a-2ef9-44ed-9203-c05be539663c"
+        ]
+    },
+    "26bfef0f-6a96-4502-a547-5210e059e7b6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Scene.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-8.774032592773438,-9.816534042358399,10.687429428100586],\"rotation\":[-40.649417877197269,-0.0,-43.57454299926758]}"
+        }
+    },
+    "671141d0-9c29-4679-9065-64e4de27ed8c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "671141d0-9c29-4679-9065-64e4de27ed8c" 
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Tutorial",
+    "version": "1.0",
+    "guid": "607962e6-7515-4bfb-86d7-07c470eaea4b",
+    "database_guid": "93bdf83b-7ef2-4bbb-808e-8445311b3de2",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "asset_directory": "Assets",
+    "source_directory": "Code",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "plugin_dependencies": [
+    ],
+    "source": "Package.nplugin",
+    "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359"
+}
